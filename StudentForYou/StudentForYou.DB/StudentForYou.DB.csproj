@@ -74,12 +74,6 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\StudentForYou.RecentPosts\StudentForYou.RecentPosts.csproj">
-      <Project>{d4193337-7dd7-4389-86c4-21be0f6b5360}</Project>
-      <Name>StudentForYou.RecentPosts</Name>
-    </ProjectReference>
-  </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

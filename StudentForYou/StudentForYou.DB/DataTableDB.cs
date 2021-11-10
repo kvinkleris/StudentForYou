@@ -21,9 +21,9 @@ namespace StudentForYou.DB
             var builder = new MySqlConnectionStringBuilder();
             builder.Server = "remotemysql.com";
             builder.Port = 3306;
-            builder.Database = "dx01fvQECG";
-            builder.UserID = "dx01fvQECG";
-            builder.Password = "LgbVCXMkIm";
+            builder.Database = "aeMNgY2VO3";
+            builder.UserID = "aeMNgY2VO3";
+            builder.Password = "aOY0TMNsRw";
             return builder.ConnectionString;
         }
         

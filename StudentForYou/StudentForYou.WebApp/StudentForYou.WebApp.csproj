@@ -44,8 +44,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\StudentForYou.DB\StudentForYou.DB.csproj" />
-    <ProjectReference Include="..\StudentForYou.RecentPosts\StudentForYou.RecentPosts.csproj" />
-    <ProjectReference Include="..\Studentforyousubjects\StudentForYou.Subjects.csproj" />
     <None Remove="ClientApp\package.json" />
     <None Remove="ClientApp\src\views\NewQuestion.jsx" />
   </ItemGroup>

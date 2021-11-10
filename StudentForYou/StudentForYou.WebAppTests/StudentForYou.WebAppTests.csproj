@@ -15,7 +15,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\StudentForYou.WebApp\StudentForYou.WebApp.csproj" />
-    <ProjectReference Include="..\Studentforyousubjects\StudentForYou.Subjects.csproj" />
   </ItemGroup>
 
 </Project>
